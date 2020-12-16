@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.565ff413.chunk.css",
+    "main.js": "/test/static/js/main.75d2708a.chunk.js",
+    "main.js.map": "/test/static/js/main.75d2708a.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.6d1691f0.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.6d1691f0.js.map",
+    "static/js/2.0eea0fd4.chunk.js": "/test/static/js/2.0eea0fd4.chunk.js",
+    "static/js/2.0eea0fd4.chunk.js.map": "/test/static/js/2.0eea0fd4.chunk.js.map",
+    "index.html": "/test/index.html",
+    "static/css/main.565ff413.chunk.css.map": "/test/static/css/main.565ff413.chunk.css.map",
+    "static/js/2.0eea0fd4.chunk.js.LICENSE.txt": "/test/static/js/2.0eea0fd4.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/test/static/media/Thasadith-Regular.07322928.ttf",
+    "static/media/appsus.8595a44f.gif": "/test/static/media/appsus.8595a44f.gif",
+    "static/media/makeeat.0d294033.gif": "/test/static/media/makeeat.0d294033.gif",
+    "static/media/meme.9a5f0ecb.gif": "/test/static/media/meme.9a5f0ecb.gif",
+    "static/media/shirly.f02dab09.jpg": "/test/static/media/shirly.f02dab09.jpg",
+    "static/media/shirlyAvivZemach.e59e399f.pdf": "/test/static/media/shirlyAvivZemach.e59e399f.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d1691f0.js",
+    "static/js/2.0eea0fd4.chunk.js",
+    "static/css/main.565ff413.chunk.css",
+    "static/js/main.75d2708a.chunk.js"
+  ]
+}
